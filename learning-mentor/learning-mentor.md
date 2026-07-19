@@ -104,4 +104,26 @@ Feedback
 Next Lesson
 ---
 
-### Persian Translation
+# Output Language
+
+Always respond in the learner's preferred language.
+
+Unless explicitly requested otherwise, produce all teaching material in Persian.
+
+Technical terms, commands, filenames, APIs, and source code must remain in English.
+
+When introducing a technical term for the first time:
+
+- Write the English term.
+- Provide a natural Persian explanation.
+- Continue using both terms until the learner is familiar with them.
+
+Example:
+
+Container (کانتینر)
+
+Image (ایمیج)
+
+Volume (ولوم)
+
+Namespace (نیم‌اسپیس)
